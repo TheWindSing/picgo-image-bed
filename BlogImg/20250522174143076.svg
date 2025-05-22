@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="120mm"
+   viewBox="0 0 200 120"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="基本信息论.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.841375"
+     inkscape:cx="377.95276"
+     inkscape:cy="283.46457"
+     inkscape:window-width="1280"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.754539"
+       id="path4"
+       cx="98.274986"
+       cy="60"
+       rx="89.298561"
+       ry="51.800762" />
+    <ellipse
+       style="fill:#ffff00;stroke-width:0.765516"
+       id="path2"
+       cx="78.437782"
+       cy="60"
+       rx="60.28722"
+       ry="41.322292" />
+    <ellipse
+       style="fill:#00ff00;stroke-width:1.19569"
+       id="path3"
+       cx="58.540905"
+       cy="60"
+       rx="30.362041"
+       ry="20.796663" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:16.3456;display:inline;fill:#000000;stroke-width:0.264583"
+       x="43.35582"
+       y="33.778301"
+       id="text5"
+       transform="matrix(2.8065197,0,0,2.9827465,-85.435577,-37.422736)"><tspan
+         x="43.35582"
+         y="33.778301"
+         id="tspan1">基本信息论</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.1862px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.765516"
+       x="92.94101"
+       y="61.430084"
+       id="text6"
+       transform="scale(0.97000925,1.030918)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.765516"
+         x="92.94101"
+         y="61.430084">一般信息论</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.1862px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.765516"
+       x="145.34158"
+       y="61.43457"
+       id="text7"
+       transform="scale(0.97000925,1.030918)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.765516"
+         x="145.34158"
+         y="61.43457">广义信息论</tspan></text>
+  </g>
+</svg>
