@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="152mm"
+   height="83mm"
+   viewBox="0 0 152 83"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="三要素.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0116061"
+     inkscape:cx="280.12443"
+     inkscape:cy="112.09948"
+     inkscape:window-width="1280"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="284.34076"
+       y="192.61122"
+       width="26.208439"
+       height="39.383881"
+       id="rect70" />
+    <rect
+       x="281.0127"
+       y="194.58727"
+       width="23.296391"
+       height="25.792433"
+       id="rect69" />
+    <rect
+       x="280.70071"
+       y="194.48325"
+       width="21.424358"
+       height="19.443647"
+       id="rect68" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 12.209864 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210.00004 : 12.209864 : 1"
+       inkscape:persp3d-origin="105.00001 : -5.9568075 : 1"
+       id="perspective26" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-opacity:0"
+       id="rect1"
+       width="139.34673"
+       height="62.739048"
+       x="4.40274"
+       y="8.80548"
+       ry="0.83355808" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect59"
+       width="33.460827"
+       height="43.146854"
+       x="7.176301"
+       y="19.916662"
+       ry="6.0386438" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect59-5"
+       width="33.460827"
+       height="43.146854"
+       x="107.70953"
+       y="19.916662"
+       ry="6.0386438" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect60"
+       width="34.556602"
+       height="9.8254719"
+       x="58.567924"
+       y="36.44516"
+       ry="0.83355808" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="18.270538"
+       y="35.579842"
+       id="text60"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="18.270538"
+         y="35.579842">信源</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="118.95536"
+       y="35.59362"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="118.95536"
+         y="35.59362">信宿</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="71.739059"
+       y="42.992416"
+       id="text62"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="71.739059"
+         y="42.992416">信道</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40.637125,41.49009 58.567919,41.357896"
+       id="path63"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.929936,41.423994 14.585024,0.132194"
+       id="path64"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       d="m 57.529966,41.365548 1.037953,-0.0076 -1.14558,0.0084 1.14558,-0.0084 c 0,0 -2.075905,0.01529 -1.037953,0.0076 z"
+       id="path65" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       d="m 58.567919,41.357947 -1.037955,0.0076 c 0,0 2.075907,-0.01519 1.037955,-0.0076 z"
+       id="path66" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.31986;stroke-opacity:1"
+       d="m 56.276759,40.494514 2.29116,0.863382 -2.29116,0.887256"
+       id="path67" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.31986;stroke-opacity:1"
+       d="m 105.2238,40.692806 2.29116,0.863382 -2.29116,0.887256"
+       id="path67-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53107px;font-family:'仿宋';-inkscape-font-specification:'仿宋, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.0949094;stroke-opacity:1"
+       x="45.948318"
+       y="40.751678"
+       id="text67"><tspan
+         sodipodi:role="line"
+         id="tspan67"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53107px;font-family:'仿宋';-inkscape-font-specification:'仿宋, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0949094"
+         x="45.948318"
+         y="40.751678">编码</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53107px;font-family:'仿宋';-inkscape-font-specification:'仿宋, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0949094"
+         x="45.948318"
+         y="43.915516"
+         id="tspan68">变换</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text68"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0.1;font-family:'宋体';-inkscape-font-specification:'宋体';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect68);fill:none;stroke:#000000;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text69"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0.1;font-family:'宋体';-inkscape-font-specification:'宋体';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect69);fill:none;stroke:#000000;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text70"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0.1;font-family:'宋体';-inkscape-font-specification:'宋体';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect70);fill:none;stroke:#000000;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53107px;font-family:'仿宋';-inkscape-font-specification:'仿宋, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.0949094;stroke-opacity:1"
+       x="100.21255"
+       y="40.807888"
+       id="text67-5"><tspan
+         sodipodi:role="line"
+         id="tspan67-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53107px;font-family:'仿宋';-inkscape-font-specification:'仿宋, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0949094"
+         x="100.21255"
+         y="40.807888">译码</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.53107px;font-family:'仿宋';-inkscape-font-specification:'仿宋, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0949094"
+         x="100.21255"
+         y="43.971725"
+         id="tspan68-5">反变换</tspan></text>
+  </g>
+</svg>
